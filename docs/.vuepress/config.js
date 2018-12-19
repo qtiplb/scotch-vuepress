@@ -30,7 +30,7 @@ module.exports = {
                   '/guide/api' ]
             }
           ],
-        repo: 'qtiplb/scotch-vuepress',
+        repo: 'qtiplb/scotch-vuepress/blob',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     repoLabel: 'Contribute!',
