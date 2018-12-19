@@ -28,6 +28,9 @@ module.exports = {
               children: [
                   '/guide/guide',
                   '/guide/api' ]
+            },
+            {
+              lastUpdated: 'Last Updated', // string | boolean
             }
           ],
         repo: 'qtiplb/scotch-vuepress',
