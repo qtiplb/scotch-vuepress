@@ -14,5 +14,3 @@ SUR LES INSTANCES DE TRAINING
 3. Cliquer sur “Create DataBase”
 
 ![](https://lh6.googleusercontent.com/SqqVmvtgY8CE5HTl9PXFddZYhmr3lZRKDm_VkNnJlDFt0q_WwbXFAFg8863Wi-DGJB1WObndbtuf8eT1GioE0x16dz0vnNHovcx_vpeMxuoWjz0-a5LU2pRZdR1cl0vxz--H3dQ7)
-
-
