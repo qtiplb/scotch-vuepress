@@ -27,6 +27,9 @@ module.exports = {
                   '/guide/guide',
                   '/guide/api' ]
             }
+            {
+              lastUpdated: 'Last Updated', // string | boolean
+            }
           ]
     }
 }
