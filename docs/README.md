@@ -1,7 +1,8 @@
 ---
 home: true
-actionText: See Counter App
-actionLink: /counter/counter-app
+heroImage: https://www.vetiq.org/wp-content/uploads/2018/04/NUMIGI-_logo-color-01.png
+actionText: Lire la documentation
+actionLink: /presentation/presentation
 features:
 - title: Embedded Vue Counter
   details: A Vue counter developed using Vue is embedded in this doc, now thats the power of VuePress!
