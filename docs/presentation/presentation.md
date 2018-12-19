@@ -1,5 +1,5 @@
 ---
-title: Short Presentation
+title: Courte présentation
 ---
 
 ## Qui est Numigi?
