@@ -5,3 +5,4 @@ is_partial: false
 fields: []
 pages:
 - docs/counter/nouveau.md
+- docs/guide/création-d-une-base-training.md
