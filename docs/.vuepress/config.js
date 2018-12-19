@@ -30,13 +30,13 @@ module.exports = {
                   '/guide/api' ]
             }
           ],
-        repo: 'qtiplb/scotch-vuepress/blob',
+        repo: 'qtiplb/scotch-vuepress',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     repoLabel: 'Contribute!',
 
     // Optional options for generating "Edit this page" link
-
+    docsDir: 'docs',
     // if your docs are in a specific branch (defaults to 'master'):
     docsBranch: 'demo',
     // defaults to false, set to true to enable
