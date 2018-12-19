@@ -14,6 +14,7 @@ module.exports = {
             collapsable: false,
             children: [
                 '/presentation/presentation'
+                '/presentation/presentation2'
             ]
           },
             {
