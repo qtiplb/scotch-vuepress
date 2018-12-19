@@ -12,7 +12,6 @@ module.exports = {
             title: 'Presentation',
             collapsable: false,
             children: [
-             '',      /* /bar/ */
                 '/presentation/presentation'
             ]
           },
