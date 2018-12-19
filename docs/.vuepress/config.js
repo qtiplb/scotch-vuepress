@@ -3,7 +3,7 @@ module.exports = {
     description: "La documentation Test de Numigi avec VuePress",
     themeConfig:{
         nav: [
-            { text: 'PRESENTATION', link: '/presentation/' },
+            { text: 'PRESENTATION', link: '/presentation/presentation' },
             { text: 'GUIDE', link: '/guide/' },
         ],
         lastUpdated: 'Last Updated', // string | boolean
@@ -12,7 +12,8 @@ module.exports = {
             title: 'Presentation',
             collapsable: false,
             children: [
-              '/presentation/presentation'
+             '',      /* /bar/ */
+                '/presentation/presentation'
             ]
           },
             {
