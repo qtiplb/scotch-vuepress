@@ -6,6 +6,7 @@ module.exports = {
             { text: 'PRESENTATION', link: '/presentation/' },
             { text: 'GUIDE', link: '/guide/' },
         ],
+        lastUpdated: 'Last Updated', // string | boolean
         sidebar: [
           {
             title: 'Presentation',
@@ -26,9 +27,6 @@ module.exports = {
               children: [
                   '/guide/guide',
                   '/guide/api' ]
-            }
-            {
-              lastUpdated: 'Last Updated', // string | boolean
             }
           ]
     }
