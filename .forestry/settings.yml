@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: docs/counter
+  label: Counter
+  create: all
+  match: "**/*"
+- type: directory
   path: docs/guide
   label: Guide
   create: all
