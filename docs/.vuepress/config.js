@@ -7,6 +7,7 @@ module.exports = {
             { text: 'GUIDE', link: '/guide/' },
         ],
         lastUpdated: 'Last Updated', // string | boolean
+        displayAllHeaders: true,
         sidebar: [
           {
             title: 'Presentation',
