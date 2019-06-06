@@ -1,8 +1,9 @@
 ---
 title: Création d'une base training
-date: 2018-12-19 04:27:25 +0000
-
+date: '2018-12-19 04:27:25 +0000'
+published: true
 ---
+![256x256_VakapFR.png]({{site.baseurl}}/docs/guide/256x256_VakapFR.png)
 #  CRÉATION D’UNE BASE DE DONNÉES   
 SUR LES INSTANCES DE TRAINING
 
