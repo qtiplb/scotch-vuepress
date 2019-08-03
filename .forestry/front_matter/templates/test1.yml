@@ -42,5 +42,20 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: color_picker
+  type: color
+  label: Color picker
+  config:
+    required: false
+    color_format: Hex
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: image_de_cover
+  type: file
+  config:
+    maxSize: 250
+  label: Image de cover
 pages:
 - docs/guide/monbeaudoc.md
