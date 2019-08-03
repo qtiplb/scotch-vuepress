@@ -26,7 +26,7 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_command: public
-  publish_command: npm run docs:build
+  publish_command: yarn build
   preview_output_directory: ".vuepress/dist"
   output_directory: ".vuepress/dist"
   instant_preview_command: vuepress docs:dev -p 8080 -h 0.0.0.0
