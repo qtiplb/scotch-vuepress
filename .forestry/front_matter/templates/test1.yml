@@ -11,3 +11,34 @@ fields:
 - name: toggle_de_test
   type: boolean
   label: Toggle de test
+- name: sortable_list
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: simple
+    options:
+    - Première
+    - Deuxième
+    - Troisième
+  label: Sortable list
+- name: text_area
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text area
+- name: la_date_ici
+  type: datetime
+  label: La date ici
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
