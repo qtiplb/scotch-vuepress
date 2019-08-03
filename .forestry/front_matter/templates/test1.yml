@@ -67,6 +67,6 @@ fields:
     min: 
     max: 
 pages:
+- docs/guide/monbeaudoc.md
 - docs/guide/monbeaudoc2.md
 - docs/guide/testdeblock.md
-- docs/guide/monbeaudoc.md
