@@ -1,4 +1,13 @@
 ---
 label: Test1
 hide_body: false
-fields: []
+fields:
+- name: source
+  type: text
+  config:
+    required: false
+  label: Source
+  description: Renseigner ici la source
+- name: toggle_de_test
+  type: boolean
+  label: Toggle de test
