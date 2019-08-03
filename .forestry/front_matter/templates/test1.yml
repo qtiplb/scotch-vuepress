@@ -57,6 +57,15 @@ fields:
   config:
     maxSize: 250
   label: Image de cover
+- name: block1
+  type: blocks
+  label: Block1
+  template_types:
+  - blank
+  - test1
+  config:
+    min: 
+    max: 
 pages:
 - docs/guide/monbeaudoc2.md
 - docs/guide/monbeaudoc.md
