@@ -16,7 +16,7 @@ la_date_ici: 2019-08-08 04:00:00 +0000
 
 ![](/uploads/surprise-pikachu-meme-000-original-blank.png)
 
-_Voici ci-haut une belle image de Pikachu_
+_Voici ci-haut une belle image de Pikachu.._
 
     bla
     balblldld
