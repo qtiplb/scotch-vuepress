@@ -8,7 +8,7 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs --output public "
+    "build": "vuepress build docs && mv docs/.vuepress/dist public"
   },
   "keywords": [],
   "author": "",
