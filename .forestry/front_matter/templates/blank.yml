@@ -1,7 +1,6 @@
 ---
 label: Blank
 hide_body: false
-is_partial: false
 fields: []
 pages:
 - docs/counter/nouveau.md

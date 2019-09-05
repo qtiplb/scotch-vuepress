@@ -1,0 +1,72 @@
+---
+label: Test1
+hide_body: false
+fields:
+- name: source
+  type: text
+  config:
+    required: false
+  label: Source
+  description: Renseigner ici la source
+- name: toggle_de_test
+  type: boolean
+  label: Toggle de test
+- name: sortable_list
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: simple
+    options:
+    - Première
+    - Deuxième
+    - Troisième
+  label: Sortable list
+- name: text_area
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text area
+- name: la_date_ici
+  type: datetime
+  label: La date ici
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: color_picker
+  type: color
+  label: Color picker
+  config:
+    required: false
+    color_format: Hex
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: image_de_cover
+  type: file
+  config:
+    maxSize: 250
+  label: Image de cover
+- name: block1
+  type: blocks
+  label: Block1
+  template_types:
+  - blank
+  - test1
+  config:
+    min: 
+    max: 
+pages:
+- docs/guide/monbeaudoc.md
+- docs/guide/monbeaudoc2.md
+- docs/guide/testdeblock.md
