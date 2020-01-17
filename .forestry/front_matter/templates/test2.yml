@@ -20,5 +20,10 @@ fields:
     schema:
       format: markdown
   label: Solution
+- name: template
+  type: include
+  config: {}
+  template: test1
+  label: Template
 pages:
 - docs/guide/testest2.md
