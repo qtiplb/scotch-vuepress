@@ -1,4 +1,22 @@
 ---
 label: test2
 hide_body: false
-fields: []
+fields:
+- name: contexte
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Contexte
+- name: solution
+  type: textarea
+  default: "_blablablabla_ \n\n* okay"
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Solution
